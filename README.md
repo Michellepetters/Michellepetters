@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michellepetters
 - 👀 I’m interested in Desenvolvimento
-- 🌱 I’m currently learning  SQL e Java
+- 🌱 I’m currently learning  SQL e JavaScript
  - 📫 How to reach me https://www.linkedin.com/in/michelle-petters-86051a228/  
 
 <!---

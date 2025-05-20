@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michellepetters
 - 👀 I’m interested in Desenvolvimento
 - 🌱 I’m currently learning  SQL e JavaScript
- - 📫 How to reach me https://www.linkedin.com/in/michelle-petters-86051a228/  
+ - 📫 How to reach me https://www.linkedin.com/in/michellepetters/ 
 
 <!---
 Michellepetters/Michellepetters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

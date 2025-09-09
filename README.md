@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michellepetters
-- 👀 I’m interested in Desenvolvimento
+- 👀 I’m interested in QA
 - 🌱 I’m currently learning  SQL e JavaScript
  - 📫 How to reach me https://www.linkedin.com/in/michellepetters/ 
 
